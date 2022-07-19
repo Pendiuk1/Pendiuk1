@@ -19,8 +19,8 @@ On going
 ## Status
 <div style="display: inline_block" align="center">
   <a href="https://github.com/Pendiuk1">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Pendiuk1&count_private=true&show_icons=true&theme=blue-green&hide=issues,contribs"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pendiuk1&layout=compact&count_private=true&show_icons=true&theme=blue-green"/></a>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Pendiuk1&count_private=true&show_icons=true&theme=blue-green&hide=issues,contribs"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pendiuk1&layout=compact&count_private=true&show_icons=true&theme=blue-green"/></a>
 </div>
 
 <br />
@@ -29,13 +29,13 @@ On going
 
 ## Main Skills
 <div style="display: inline_block" align="center" ><br>
-  <img align="center" alt="HTML" height="50" width="150" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" height="50" width="150" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Boot" height="50" width="150" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Js" height="50" width="150" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Vue" height="50" width="150" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img align="center" alt="C" height="50" width="150" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="C++" height="50" width="150" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="HTML" height="40" width="120" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" height="40" width="120" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Boot" height="40" width="120" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Js" height="40" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Vue" height="40" width="120" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img align="center" alt="C" height="40" width="120" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="C++" height="40" width="120" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
 <br />
