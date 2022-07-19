@@ -19,8 +19,8 @@ On going
 ## Status
 <div style="display: inline_block" align="center">
   <a href="https://github.com/Pendiuk1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pendiuk1&count_private=true&show_icons=true&theme=blue-green&hide=issues,contribs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pendiuk1&layout=compact&count_private=true&show_icons=true&theme=blue-green"/></a>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Pendiuk1&count_private=true&show_icons=true&theme=blue-green&hide=issues,contribs"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pendiuk1&layout=compact&count_private=true&show_icons=true&theme=blue-green"/></a>
 </div>
 
 <br />
