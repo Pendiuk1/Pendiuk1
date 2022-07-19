@@ -65,5 +65,5 @@ On going
   <img align="center" alt="HTML" height="30" width="120" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
   
   <a href="https://www.udemy.com/user/guilherme-jack/">
-  <img align="center" alt="HTML" height="30" width="120" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
+  <img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
 </div>
