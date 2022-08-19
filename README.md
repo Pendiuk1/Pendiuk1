@@ -4,15 +4,14 @@
   
 On going  
 - [ ] Back-End  
-- [ ] Full-Stack  
   
   <br />
   
-🌲 Completed Last: &nbsp; &nbsp; [Front-End Development Libraries](https://www.freecodecamp.org/certification/pendiuk/front-end-development-libraries)
+🌲 Completed Last: &nbsp; &nbsp; Vue.JS <a href="https://www.udemy.com/course/vue-js-completo"><img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
 
-🌱 Currently Studying: &nbsp; &nbsp; Vue.JS <a href="https://www.udemy.com/course/vue-js-completo"><img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
+🌱 Currently Studying: &nbsp; &nbsp;➡  &nbsp; &nbsp;Flutter (50%)
 
-🌰 Next in Line: &nbsp; &nbsp; Data Visualization  &nbsp; &nbsp;➡  &nbsp; &nbsp;Back End Development and APIs  &nbsp; &nbsp;➡  &nbsp; &nbsp;Flutter (50%)
+🌰 Next in Line: &nbsp; &nbsp;Back End Development and APIs  &nbsp; &nbsp;➡  &nbsp; &nbsp;Flutter (50%)
 
 <br />
 
