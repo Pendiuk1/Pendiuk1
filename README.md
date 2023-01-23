@@ -1,19 +1,6 @@
-# Hello! I'm **Guilherme Pendiuk**, [____] developer  
+# Hello! I'm **Guilherme Pendiuk**, an App Developer 
+### sometimes a Web Developer as well...
 
-- [x] Front-End  
-  
-On going  
-- [ ] Back-End  
-  
-  <br />
-  
-🌲 Completed Last: &nbsp; &nbsp; Vue.JS <a href="https://www.udemy.com/course/vue-js-completo"><img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
-
-🌱 Currently Studying: &nbsp; &nbsp;  &nbsp; &nbsp;Flutter 
-
-🌰 Next in Line: &nbsp; &nbsp;Back End Development and APIs
-
-<br />
 
 ## Status
 <div style="display: inline_block" align="center">
@@ -27,6 +14,10 @@ On going
 <br />
 
 ## Main Skills
+<div style="display: inline_block" align="center" ><br>
+  <img align="center" alt="Dart" height="40" width="120" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="Flutter" height="40" width="120" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div>
 <div style="display: inline_block" align="center" ><br>
   <img align="center" alt="HTML" height="40" width="120" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="40" width="120" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -43,8 +34,6 @@ On going
 
 ## Skills in development
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dart" height="30" width="90" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img align="center" alt="Flutter" height="30" width="90" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="React" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Redux" height="30" width="90" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
